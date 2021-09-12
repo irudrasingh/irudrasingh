@@ -2,9 +2,9 @@
 - 👀 I’m interested in Problem solving, Sport and Computers
 - 🌱 I’m currently learning Advance Algorithms and machine Learning
 - 📫 Contact 
-  -linkedin.com/rudrasingh2407
-  -https://www.instagram.com/rudrasinggh/
-  -blr.rudra.singh@gmail.com
+  ![LInkedin](https://www.linkedin.com/rudrasingh2407)
+  ![Gmail](blr.rudra.singh@gmail.com)
+  ![Instagram](https://www.instagram.com/rudrasinggh/)
   
 
 <!---
